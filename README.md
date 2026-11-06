@@ -6,7 +6,7 @@
 
   <h1>⌜ HELLO, WORLD! ⌟</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I'm+Hawkschevv;Hobbyist+Programmer;Curious+by+Nature;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I'm+Hawskchevv;Hobbyist+Programmer;Curious+by+Nature;Always+Learning" alt="Typing SVG" />
 
   <br>
 
