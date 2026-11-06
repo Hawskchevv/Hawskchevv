@@ -44,11 +44,7 @@
 <hr>
 
 <h2 align="center">⌨️ Languages & Technologies</h2>
-
-<p align="center">
-  <samp>Exploring different languages and technologies</samp>
-</p>
-
+I love my girl, btw. 
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
