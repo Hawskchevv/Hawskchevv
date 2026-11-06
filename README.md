@@ -65,3 +65,27 @@ I love my girl, btw.
 
 <br>
 <hr>
+
+<br>
+<hr>
+
+<h2 align="center">🌐 Follow Me</h2>
+
+<p align="center">
+  <samp>Find me on social media</samp>
+</p>
+
+<p align="center">
+
+  <a href="https://www.instagram.com/_.mayconcoelho/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@_.mayconcoelho" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+
+</p>
+
+<br>
+<hr>
