@@ -34,7 +34,7 @@
     </i>
   </p>
 
-  <sub>— Hawkschevv</sub>
+  <sub>— Hawskchevv</sub>
 
   <br><br>
 
