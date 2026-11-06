@@ -39,3 +39,33 @@
   <br><br>
 
 </div>
+
+<br>
+<hr>
+
+<h2 align="center">⌨️ Languages & Technologies</h2>
+
+<p align="center">
+  <samp>Exploring different languages and technologies</samp>
+</p>
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,go,rust,php,ruby,kotlin,swift&theme=dark" />
+</p>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,vue,angular,tailwind&theme=dark" />
+</p>
+
+<h3 align="center">Databases & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,github,vscode,linux,docker&theme=dark" />
+</p>
+
+<br>
+<hr>
