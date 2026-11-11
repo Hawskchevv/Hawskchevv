@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/COUNTRY-BRAZIL-7aa2f7?style=flat-square&labelColor=1a1b26"/>
 <img src="https://img.shields.io/badge/MODE-LEARNING-9ece6a?style=flat-square&labelColor=1a1b26"/></div>---
 
-<h2 align="center">Namaste! I'm HAWSK</h2><div align="center">
+<h2 align="center"> I'm HAWSK</h2><div align="center">
   <i>「コンピュータが好きな少年」</i>
   <br>
   <sub>A boy who loves computers.</sub>
@@ -10,26 +10,6 @@
 <tr>
 <td width="58%" valign="top">name: HAWSK
 age: 16
-country: Brazil
-
-about:
-  - Computer enthusiast
-  - Aspiring developer
-  - Technology lover
-  - Self-taught student
-
-interests:
-  - Programming
-  - Ethical Hacking
-  - Linux
-  - Cybersecurity
-  - Terminal customization
-
-currently:
-  learning: Programming
-  exploring: Linux & Technology
-  goal: Keep improving
-
 </td>
 <td width="42%" align="center" valign="middle"><img width="100%" src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=500&auto=format&fit=crop" alt="Tokyo night atmosphere"/><br><br>
 
