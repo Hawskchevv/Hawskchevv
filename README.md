@@ -54,13 +54,11 @@ currently:
 
 </div>---
 
-<h3>🛠️ My Tech Stack</h3><div align="center"><img src="https://img.shields.io/badge/Linux-24283b?style=for-the-badge&logo=linux&logoColor=7aa2f7"/>
+<h3> My Tech Stack</h3><div align="center"><img src="https://img.shields.io/badge/Linux-24283b?style=for-the-badge&logo=linux&logoColor=7aa2f7"/>
 <img src="https://img.shields.io/badge/Termux-24283b?style=for-the-badge&logo=android&logoColor=9ece6a"/>
 <img src="https://img.shields.io/badge/VS_Code-24283b?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7"/>
 <img src="https://img.shields.io/badge/Git-24283b?style=for-the-badge&logo=git&logoColor=f7768e"/><br><img src="https://img.shields.io/badge/Terminal-Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=bb9af7"/>
 <img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5"/></div>---
-
-<h3>📊 GitHub Statistics</h3><div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b26&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true&custom_title=HAWSK%20-%20Contribution%20Activity"/><br><br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"/><br><br>
 
@@ -96,8 +94,6 @@ Ethical hacking studies and security experiments.
 </td>
 </tr>
 </table>---
-
-<h3 align="center">🌃 A Random Developer Quote</h3><div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></div>---
 
 <h3 align="center">☕ Support My Journey</h3><div align="center"><i>Every line of code is another step forward.</i>
 
