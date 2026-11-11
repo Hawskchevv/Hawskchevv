@@ -21,44 +21,6 @@
 <img src="https://img.shields.io/badge/Git-24283b?style=for-the-badge&logo=git&logoColor=f7768e"/><br><img src="https://img.shields.io/badge/Terminal-Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=bb9af7"/>
 <img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5"/></div>---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"/><br><br>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b26"/></div>---
-
-<h3>🏆 GitHub Trophies</h3><div align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10"/></div>---
-
-<h3>📌 Featured Projects</h3><div align="center"><a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-24283b?style=for-the-badge&logo=github&logoColor=7aa2f7"/>
-</a></div><br><table>
-<tr>
-<td width="50%" valign="top">01. Personal Projects
-
-Experiments, scripts and things I build while learning.
-
-</td>
-<td width="50%" valign="top">02. Linux & Customization
-
-Terminal configurations, themes and personal setups.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">03. Programming
-
-Small applications and coding experiments.
-
-</td>
-<td width="50%" valign="top">04. Cybersecurity
-
-Ethical hacking studies and security experiments.
-
-</td>
-</tr>
-</table>---
-
-<h3 align="center">☕ Support My Journey</h3><div align="center"><i>Every line of code is another step forward.</i>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/KEEP-CODING-7aa2f7?style=for-the-badge&labelColor=1a1b26"/>
 <img src="https://img.shields.io/badge/NEVER-STOP%20LEARNING-bb9af7?style=for-the-badge&labelColor=1a1b26"/></div><br><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7aa2f7,50:24283b,100:16161e"/>HAWSK
