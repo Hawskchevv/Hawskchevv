@@ -4,23 +4,7 @@
   <br>
   <sub>A boy who loves computers.</sub>
 </div><br><h3>🌙 About Me</h3><table>
-<tr>
-<td width="58%" valign="top">name: HAWSK
-age: 16
-</td>
-<td width="42%" align="center" valign="middle"><img width="100%" src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=500&auto=format&fit=crop" alt="Tokyo night atmosphere"/><br><br>
-
 <img src="https://img.shields.io/badge/NIGHT-OWL-7aa2f7?style=flat-square&labelColor=1a1b26"/></td>
-</tr>
-</table><p align="center">
-  I'm just a teenager who loves spending hours in front of a computer.
-  <br>
-  Exploring code, customizing my terminal, learning Linux,
-  discovering new tools and making everything look better.
-  <br><br>
-  <b>Curiosity is my favorite programming language.</b>
-</p>---
-
 <h3>📡 Connect With Me</h3><div align="center"><a href="https://www.instagram.com/_.mayconcoelho/">
 <img src="https://img.shields.io/badge/Instagram-_.mayconcoelho-bb9af7?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a><a href="https://www.tiktok.com/@_.mayconcoelho">
