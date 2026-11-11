@@ -114,35 +114,33 @@ No featured repositories listed yet.
 
 New projects will be added here as they become ready to share.
 
----
 
 ## GitHub Analytics
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&icon_color=BB9AF7&include_all_commits=true"
-    height="160"
-    alt="GitHub account statistics"
+    src="https://github-stats-extended.vercel.app/api?username=Hawskchevv&show_icons=true&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&icon_color=BB9AF7"
+    width="49%"
+    alt="HAWSK GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5"
-    height="160"
-    alt="Most used programming languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hawskchevv&layout=compact&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5"
+    width="49%"
+    alt="HAWSK Most Used Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Hawskchevv&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7DCFFF"
+    width="80%"
+    alt="HAWSK Contribution Streak"
   />
 
 </div>
 
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=C0CAF5&currStreakNum=7DCFFF&sideNums=7AA2F7&dates=565F89"
-    height="160"
-    alt="GitHub contribution streak"
-  />
-
-</div>
 
 ---
 
