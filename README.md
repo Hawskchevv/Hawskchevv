@@ -3,8 +3,7 @@
   <i>「コンピュータが好きな少年」</i>
   <br>
   <sub>A boy who loves computers.</sub>
-</div><br><h3>🌙 About Me</h3><table>
-<img src="https://img.shields.io/badge/NIGHT-OWL-7aa2f7?style=flat-square&labelColor=1a1b26"/></td>
+</div><br><h3>🌙 src="https://img.shields.io/badge/NIGHT-OWL-7aa2f7?style=flat-square&labelColor=1a1b26"/></td>
 <h3>📡 Connect With Me</h3><div align="center"><a href="https://www.instagram.com/_.mayconcoelho/">
 <img src="https://img.shields.io/badge/Instagram-_.mayconcoelho-bb9af7?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a><a href="https://www.tiktok.com/@_.mayconcoelho">
