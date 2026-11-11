@@ -1,6 +1,3 @@
-<div align="center"><!-- TOKYO NIGHT HEADER --><img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:16161e,50:24283b,100:7aa2f7&text=HAWSK&fontSize=65&fontColor=c0caf5&animation=fadeIn&stroke=7aa2f7" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+HAWSK!;16+years+old+%7C+Brazil;Computer+enthusiast+%26+future+developer;Linux+%7C+Programming+%7C+Cybersecurity;Building+my+own+digital+world..." /><br><img src="https://img.shields.io/badge/AGE-16-bb9af7?style=flat-square&labelColor=1a1b26"/>
-<img src="https://img.shields.io/badge/COUNTRY-BRAZIL-7aa2f7?style=flat-square&labelColor=1a1b26"/>
-<img src="https://img.shields.io/badge/MODE-LEARNING-9ece6a?style=flat-square&labelColor=1a1b26"/></div>---
 
 <h2 align="center"> I'm HAWSK</h2><div align="center">
   <i>「コンピュータが好きな少年」</i>
